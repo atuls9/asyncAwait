@@ -17,7 +17,7 @@ const preMovie = async () => {
 
     const getIcecreame = new Promise((resolve, reject) => resolve(`Ice-Creame`))
     
-    const getCandy = new Promise((resolve, reject) => resolve(`candy`))
+    const getCandy = new Promise((resolve, reject) => resolve(`Candy`))
     
     let ticket = await promiseWife;
 
